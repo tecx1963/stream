@@ -13,7 +13,7 @@ services:
         value: 8080
       # Prompts for a value in the Render Dashboard on creation
       # (useful for secrets)
-      - key: TMDB_KEY
+      - key: df0689d20857352213262f43b79fb06e
         sync: false
       - key: PROXY
         sync: false
