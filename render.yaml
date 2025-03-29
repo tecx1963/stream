@@ -15,5 +15,5 @@ services:
       # (useful for secrets)
       - key: df0689d20857352213262f43b79fb06e
         sync: false
-      - key: PROXY
+      - key: ["http://drztskzw-rotate:f9kfbfuodccp@p.webshare.io:80/"]
         sync: false
